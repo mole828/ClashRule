@@ -12,6 +12,9 @@ IP-CIDR,199.15.77.199/32,no-resolve
 IP-CIDR,199.15.77.232/32,no-resolve
 IP-CIDR,103.135.250.65/32,no-resolve
 
+# Parsec
+DOMAIN-SUFFIX,parsec.app
+
 # 浏览器自动验证码拓展nopecha解除ip封禁
 DOMAIN,api.nopecha.com
 
