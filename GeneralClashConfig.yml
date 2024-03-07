@@ -91,7 +91,7 @@ dns:
     #  - https://cloudflare-dns.com/dns-query
     #  - https://dns.google/dns-query
     - https://1.1.1.1/dns-query
-    - htpps://94.140.14.140/dns-query
+    - https://94.140.14.140/dns-query
   fallback-filter:
      geoip: true # 默认
      ipcidr: # 在这个网段内的 IP 地址会被考虑为被污染的 IP
