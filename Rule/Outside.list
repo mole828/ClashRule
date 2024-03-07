@@ -18,3 +18,7 @@ DOMAIN-SUFFIX,bnbstatic.com
 
 # iptv直播源
 DOMAIN-SUFFIX,livednow.com
+
+# kemono
+DOMAIN-SUFFIX,kemono.party
+DOMAIN-SUFFIX,kemono.su 
